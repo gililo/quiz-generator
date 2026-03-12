@@ -35,3 +35,32 @@ With this app, students can take a photo of their handwritten study notes or a p
 | Frontend | React |
 | AI Model | LLAMA (via API) |
 | Database | SQLite |
+
+## 📁 Project Structure
+
+```
+quiz-generator/
+│
+├── backend/                        # Python / Flask API
+│   ├── uploads/
+│   ├── .env
+│   ├── .gitignore
+│   ├── app.py                     
+│   ├── auth.py                    
+│   ├── database.py                
+│   ├── quiz.py                    
+│   ├── quiz_app.db                
+│   └── requirements.txt           
+│
+└── frontend/                       # React application
+    ├── public/
+    ├── src/
+    │   ├── context/
+    │   ├── pages/                  # App pages (Home, Quiz, History, etc.)
+    │   ├── styles/                 # CSS / styling files
+    │   ├── App.js                  
+    │   └── index.js                # React entry point
+    ├── .gitignore
+    ├── package.json
+    └── package-lock.json
+```
