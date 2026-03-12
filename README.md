@@ -7,7 +7,7 @@
 **Location:** São Paulo, Brazil  
 **Date:** 03/11/2026  
 
-#### Video Demo:  [Demo](https://www.youtube.com/watch?v=Hhw4kzhx4SQ)
+#### Video:  [Demo](https://www.youtube.com/watch?v=Hhw4kzhx4SQ)
 
 
 ## 📖 Description
